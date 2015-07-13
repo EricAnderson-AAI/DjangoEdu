@@ -1,11 +1,8 @@
-Errors:
-
 No handlers could be found for logger
 
 import logging
 logging.basicConfig()
 
-AppRegistryNotReady exception
 
 import django
 django.setup()
